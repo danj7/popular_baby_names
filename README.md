@@ -10,4 +10,5 @@ First, I want to explore the changes year to year of the most popular names. To 
 > gifs here
 
 From them we notice a couple of things:
-* Female names such as Mary and Helen start being very popular, butb bsobosbsb
+* Female names Mary and Helen start being very popular but after the 1950's fade and other such as Emma and Olivia become most popular.
+* Male names....
