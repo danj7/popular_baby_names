@@ -3,15 +3,8 @@ In this project I will analyze trends in baby names for the United States from 1
 
 ## Names, comings and goings
 
-We often have the notion of an "old-sounding" name, as in a name we haven't heard in a long time, or maybe because it reminds us of an elder relative. We also notice the reverse, that there are names that sound modern, or newer, or that maybe have come into fashion. I will explore these notions a little bit in this project, starting from the comings and goings of names.
+We often have the notion of an _old-sounding_ name, maybe because it's a name that reminds us of an elder relative or a historical figure. We also notice the reverse, that there are _modern-sounding_, newer, that may have recently come into fashion. I will explore these notions a little bit in this project, starting from the comings and goings of names.
 
-dfsddsadA
+First, I want to explore the changes year to year of the most popular names. To do this visually, I will use a word clouds, one for male names and another for female names.
 
-SDA
-SD
-sa
-xZ
-X
-zX
-z
-X
+> gifs here
