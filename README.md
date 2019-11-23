@@ -8,3 +8,6 @@ We often have the notion of an _old-sounding_ name, maybe because it's a name th
 First, I want to explore the changes year to year of the most popular names. To do this visually, I will use a word clouds, one for male names and another for female names.
 
 > gifs here
+
+From them we notice a couple of things:
+* Female names such as Mary and Helen start being very popular, but
