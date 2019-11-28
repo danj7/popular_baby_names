@@ -9,26 +9,35 @@ First, I want to explore the changes year to year of the most popular names. To 
 
 Top 100 Female Names per Year    |  Top 100 Male Names per Year
 :-------------------------:|:-------------------------:
-![top100Fnames_4x3](https://user-images.githubusercontent.com/13749006/69764908-efae2280-113f-11ea-82f6-40cb939fd186.gif)  |
-![top100Mnames_4x3](https://user-images.githubusercontent.com/13749006/69764934-048ab600-1140-11ea-8165-3622a92e6736.gif)
+![top100Fnames_4x3](https://user-images.githubusercontent.com/13749006/69764908-efae2280-113f-11ea-82f6-40cb939fd186.gif)  | ![top100Mnames_4x3](https://user-images.githubusercontent.com/13749006/69764934-048ab600-1140-11ea-8165-3622a92e6736.gif)
 
 
-From them we notice the following names going out of fashion:
+From them we notice the following names going out of fashion, for example
 * Male: William, John, James
 * Female: Mary, Anna, Helen
 
-The history of these names can be plotted and visualized. For male names:
-
-![Male names goint out of fashion](https://user-images.githubusercontent.com/13749006/69765031-5b908b00-1140-11ea-93c4-420c7690b8fa.png)
-
-An for female names:
-![Female names goint out of fashion](https://user-images.githubusercontent.com/13749006/69765081-8975cf80-1140-11ea-8beb-70ab5aa26c11.png)
-
-Also, we can see the history of some names coming into fashion,
+And some names coming into fashion like
 * Male: Jacob, Michael, Noah
 * Female: Jennifer, Emily, Olivia
-and now their histories:
 
-![Male names coming into fashion](https://user-images.githubusercontent.com/13749006/69765147-cc37a780-1140-11ea-86b0-440bc93c00d4.png)
+The historical popularity of this names can be obtained and plotted. For example, for the name 'Victor', the historical popularity in total number of registrations can be seen on the graph on the left while the percentage of total names registered per year can be seen on the right graph.
 
-![Female names coming into fashion](https://user-images.githubusercontent.com/13749006/69765166-deb1e100-1140-11ea-9508-78415d377e9b.png)
+![Historical popularity for the name Victor](https://user-images.githubusercontent.com/13749006/69765545-57656d00-1142-11ea-831f-f278cb634fdc.png)
+
+We can find names that have come in and out of fashion using a mask to weigh the popularity numbers and obtain a score. The names with a higher score would conform better with the pattern (the details are in the Jupyter Notebook `Baby Names - Names coming and going`. The two masks used are shown below:
+
+Mask for names going out | Mask for names coming in
+:---:|:---:
+![going out](https://user-images.githubusercontent.com/13749006/69767263-6b609d00-1149-11ea-8ae8-5150988762d5.png) | ![coming in](https://user-images.githubusercontent.com/13749006/69767280-7b787c80-1149-11ea-9242-3405744d6417.png)
+
+With this tool we can find, for example, top five female names who became less popular:
+
+![image](https://user-images.githubusercontent.com/13749006/69767342-c7c3bc80-1149-11ea-8483-50b08aab1001.png)
+
+and the top five male names that increased in popularity:
+
+![image](https://user-images.githubusercontent.com/13749006/69767394-fa6db500-1149-11ea-8900-41b69c031017.png)
+
+## Names and the movies
+
+(To be finished...)
