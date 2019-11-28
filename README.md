@@ -52,10 +52,31 @@ Popularity of 'Desi' | I Love Lucy
  ### The Lion King
  Even though the characters were animals the names still became somewhat popular. Here we show the popularity of some of the names.
 
- Popularity of 'Mufasa' and 'Simba' | Popularity of 'Nala'
- :---:|:---:
- ![Mufasa and Simba](https://user-images.githubusercontent.com/13749006/69770828-7cfd7100-1158-11ea-9eda-dd5994de29ac.png) | ![Nala](https://user-images.githubusercontent.com/13749006/69770852-930b3180-1158-11ea-9da3-c74211f7cabb.png)
+ Popularity of 'Mufasa' and 'Simba' | Popularity of 'Nala' | The Lion King
+ :---:|:---:|:---:
+![Mufasa and Simba](https://user-images.githubusercontent.com/13749006/69771059-660b4e80-1159-11ea-86fe-c90b0713e344.png) | ![Nala](https://user-images.githubusercontent.com/13749006/69771073-74596a80-1159-11ea-8852-ce522d2fd6a0.png) | ![The Lion King](https://user-images.githubusercontent.com/13749006/69771091-8f2bdf00-1159-11ea-8718-4ac722e0b4e1.png)
 
- Popularity of 'Mulan'
- :---:
- ![Mulan](https://user-images.githubusercontent.com/13749006/69770908-c221a300-1158-11ea-8d8f-ec7f23674e6c.png)
+### Mulan
+This was a very influential and popular movie, perhaps for girls especially. Many parents must've also been inspired by the movie to name their girls like the protagonist.
+
+ Popularity of 'Mulan' | Mulan
+ :---:|:---:
+ ![Mulan](https://user-images.githubusercontent.com/13749006/69770908-c221a300-1158-11ea-8d8f-ec7f23674e6c.png) | ![Mulan](https://user-images.githubusercontent.com/13749006/69771114-a7036300-1159-11ea-9962-c2330dfd60d3.png)
+
+### Game of Thrones
+This show was incredibly popular and many people followed the plot and the characters closely. The books that came before were also popular but it was the show that really boosted the popularity of those names.
+
+Popularity of female names | Game of Thrones
+:---:|:---:
+![Arya, Khaleesi, Daenerys](https://user-images.githubusercontent.com/13749006/69771412-b9ca6780-115a-11ea-977b-957ee2bf91f9.png) | ![GOT](https://user-images.githubusercontent.com/13749006/69771456-d49cdc00-115a-11ea-8a6c-bdc5958f307f.png)
+
+### Harry Potter
+In this case I just want to focus on the name 'Hermione'. It's not totally new, as shown in the left graph, but its popularity grew a lot thanks to the movies, much more than the books.
+
+Popularity of 'Hermione' 1880-2018 | Popularity of 'Hermione' 1980-2018| Harry Potter and the Sorcerer's Stone
+:---:|:---:|:---:
+![Hermione 1880-2018](https://user-images.githubusercontent.com/13749006/69771795-019dbe80-115c-11ea-9fdb-5657cfdcb8b5.png) | ![Hermione 1980-2018](https://user-images.githubusercontent.com/13749006/69771803-095d6300-115c-11ea-984f-1a6847d32990.png) | ![HP](https://user-images.githubusercontent.com/13749006/69771889-59d4c080-115c-11ea-9e64-8007db349b89.png)
+
+## Names and geography
+
+(to be finished...)
