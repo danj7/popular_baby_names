@@ -38,6 +38,24 @@ and the top five male names that increased in popularity:
 
 ![image](https://user-images.githubusercontent.com/13749006/69767394-fa6db500-1149-11ea-8900-41b69c031017.png)
 
-## Names and the movies
+## Names and media
 
-(To be finished...)
+Media such as books and movies are incredibly influential in all our lives. They do not solely entertain but can also change how we think and do things. One of those things is choosing your baby's name. Here are various examples of how movies and books affected the popularity of various names:
+
+### I Love Lucy
+'Lucy' is not an uncommon name but up until the 1950s there must've not been many Desiderios, or Desi, living in the US. Such was the name of the actor who played Ricky Ricardo in the show. The popularity and year the show was released can be seen in the following graph.
+
+Popularity of 'Desi' | I Love Lucy
+:---:|:---:
+ ![Popularity of Desi](https://user-images.githubusercontent.com/13749006/69770589-994cde00-1157-11ea-98ca-0a5979d6775c.png) | ![I Love Lucy](https://user-images.githubusercontent.com/13749006/69770569-863a0e00-1157-11ea-92c2-c9d10c1495b5.png)
+
+ ### The Lion King
+ Even though the characters were animals the names still became somewhat popular. Here we show the popularity of some of the names.
+
+ Popularity of 'Mufasa' and 'Simba' | Popularity of 'Nala'
+ :---:|:---:
+ ![Mufasa and Simba](https://user-images.githubusercontent.com/13749006/69770828-7cfd7100-1158-11ea-9eda-dd5994de29ac.png) | ![Nala](https://user-images.githubusercontent.com/13749006/69770852-930b3180-1158-11ea-9da3-c74211f7cabb.png)
+
+ Popularity of 'Mulan'
+ :---:
+ ![Mulan](https://user-images.githubusercontent.com/13749006/69770908-c221a300-1158-11ea-8d8f-ec7f23674e6c.png)
